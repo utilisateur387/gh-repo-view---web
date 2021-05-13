@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_24821488-6b6b-4994-b808-d6281c5437bc",
+      "org_id": "user_4a80a2c8-9dc9-4de8-9253-857ac99674e2",
+      "deploy_url": "https://push-par-clevercloud-customers.services.clever-cloud.com/app_24821488-6b6b-4994-b808-d6281c5437bc.git",
+      "name": "portfolio",
+      "alias": "portfolio"
+    }
+  ]
+}
